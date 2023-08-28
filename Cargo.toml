@@ -1,0 +1,16 @@
+[package]
+name = "prandom"
+authors = ["\"ferhatgec\""]
+description = "Some PNRG algorithms implemented in Rust."
+keywords = ["rust", "prng", "pseudo_random", "rand", "srand"]
+readme = "README.md"
+repository = "https://github.com/ferhatgec/prandom"
+documentation = "https://docs.rs/prandom"
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+
+include = [
+    "Cargo.toml",
+    "src/*.rs"
+]
